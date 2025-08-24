@@ -1,0 +1,41 @@
+# 컴파일 산출물
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.lai
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# 디버그 파일
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.ilk
+*.log
+*.core
+
+# 빌드 디렉터리
+/build/
+/bin/
+/out/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/*.mk
+
+# IDE 설정
+.vscode/
+.idea/
+*.code-workspace
+
+# 임시 파일
+*~
+*.swp
+*.swo
